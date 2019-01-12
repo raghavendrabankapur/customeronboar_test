@@ -1,0 +1,14 @@
+C:\Users\Raghavendra_Bankapur\source\repos\customeronboard\customeronboard\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Raghavendra_Bankapur\source\repos\customeronboard\customeronboard\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Raghavendra_Bankapur\source\repos\customeronboard\customeronboard\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Raghavendra_Bankapur\source\repos\customeronboard\customeronboard\bin\Debug\netcoreapp2.1\customeronboard.deps.json
+C:\Users\Raghavendra_Bankapur\source\repos\customeronboard\customeronboard\bin\Debug\netcoreapp2.1\customeronboard.runtimeconfig.json
+C:\Users\Raghavendra_Bankapur\source\repos\customeronboard\customeronboard\bin\Debug\netcoreapp2.1\customeronboard.runtimeconfig.dev.json
+C:\Users\Raghavendra_Bankapur\source\repos\customeronboard\customeronboard\bin\Debug\netcoreapp2.1\customeronboard.dll
+C:\Users\Raghavendra_Bankapur\source\repos\customeronboard\customeronboard\bin\Debug\netcoreapp2.1\customeronboard.pdb
+C:\Users\Raghavendra_Bankapur\source\repos\customeronboard\customeronboard\obj\Debug\netcoreapp2.1\customeronboard.csprojAssemblyReference.cache
+C:\Users\Raghavendra_Bankapur\source\repos\customeronboard\customeronboard\obj\Debug\netcoreapp2.1\customeronboard.csproj.CoreCompileInputs.cache
+C:\Users\Raghavendra_Bankapur\source\repos\customeronboard\customeronboard\obj\Debug\netcoreapp2.1\customeronboard.AssemblyInfoInputs.cache
+C:\Users\Raghavendra_Bankapur\source\repos\customeronboard\customeronboard\obj\Debug\netcoreapp2.1\customeronboard.AssemblyInfo.cs
+C:\Users\Raghavendra_Bankapur\source\repos\customeronboard\customeronboard\obj\Debug\netcoreapp2.1\customeronboard.dll
+C:\Users\Raghavendra_Bankapur\source\repos\customeronboard\customeronboard\obj\Debug\netcoreapp2.1\customeronboard.pdb
