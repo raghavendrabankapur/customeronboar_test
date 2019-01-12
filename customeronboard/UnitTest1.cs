@@ -24,6 +24,8 @@ namespace customeronboard
             var respcontent = Newtonsoft.Json.JsonConvert.DeserializeObject<dynamic>(resp.Content);
             Assert.Equal(respcontent.entity.name.ToString(), $"Tenant_{id}");
             Assert.Equal(respcontent.entity.relationship.ToString(), $"customer_{id}");
+
+            // Assert the response time for the KPI
         }
 
         [Fact]
@@ -41,6 +43,8 @@ namespace customeronboard
 
             var respcontent = Newtonsoft.Json.JsonConvert.DeserializeObject<dynamic>(resp.Content);
             Assert.Equal(respcontent.message.ToString(), "Uploaded successfully");
+
+            // Assert the response time for the KPI
         }
 
         [Fact]
@@ -57,6 +61,8 @@ namespace customeronboard
 
             var respcontent = Newtonsoft.Json.JsonConvert.DeserializeObject<dynamic>(resp.Content);
             Assert.Equal(respcontent.message.ToString(), "Unsupported media type");
+
+            // Assert the response time for the KPI
         }
 
         [Fact]
@@ -73,6 +79,8 @@ namespace customeronboard
 
             var respcontent = Newtonsoft.Json.JsonConvert.DeserializeObject<dynamic>(resp.Content);
             Assert.Equal(respcontent.message.ToString(), "Invalid excel");
+
+            // Assert the response time for the KPI
         }
 
         [Fact]
@@ -89,6 +97,8 @@ namespace customeronboard
 
             var respcontent = Newtonsoft.Json.JsonConvert.DeserializeObject<dynamic>(resp.Content);
             Assert.Equal(respcontent.message.ToString(), "Invalid excel");
+
+            // Assert the response time for the KPI
         }
     }
 }
